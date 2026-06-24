@@ -51,3 +51,4 @@ na UI e realiza a duplicação.
 
 <img width="519" height="478" alt="image" src="https://github.com/user-attachments/assets/4db5b8d3-316a-4d80-ae8a-afc16f6ed848" />
 
+dez usuários de teste: https://docs.google.com/document/d/1DpLuFfR8ylnAlixrB8dD2iN_36zlv8jkx2sjv-9xV70/edit?usp=sharing
